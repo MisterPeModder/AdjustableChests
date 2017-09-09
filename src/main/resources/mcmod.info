@@ -1,0 +1,17 @@
+[
+{
+  "modid": "adjustablechests",
+  "name": "Adjustable Chests",
+  "description": "Adds chests that can be upgraded",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MisterPeModder"],
+  "credits": "Aroma1997, for making BetterChests with this mod is a rewrite of.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [ "hc" ],
+  "requiredMods": [ "hc" ]
+}
+]

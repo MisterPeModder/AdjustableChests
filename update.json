@@ -1,0 +1,9 @@
+{
+    "1.11.2": {
+        "1.0.0": "First version"
+    },
+    "homepage": "https://minecraft.curseforge.com/projects/adjustablechests",
+    "promos": {
+        "1.11.2-latest": "1.0.0",
+    }
+}
