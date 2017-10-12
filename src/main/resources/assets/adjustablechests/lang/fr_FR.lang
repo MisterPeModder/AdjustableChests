@@ -1,0 +1,15 @@
+itemGroup.adjustablechests=Adjustable Chests
+
+#Sous-titres
+subtitles.blockachest.open=Adjustable chest opens
+subtitles.block.achest.close=Adjustable chest closes
+
+#GUI
+gui.tab.ac.upgrades.name=Améliorations
+gui.tab.ac.redstone.name=Redstone
+gui.tab.ac.security.name=Securité
+gui.slot.ac.lock.name=Emplacement du cadenas
+gui.slot.ac.lock.desc=Mettez un cadenas ici pour débloquer les options de sécurité
+
+#Blocs
+tile.adjustableChest.name=Coffre Ajustable MkI

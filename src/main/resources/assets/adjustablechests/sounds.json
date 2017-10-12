@@ -1,0 +1,17 @@
+{
+  "block.achest.open": {
+    "category": "block",
+    "sounds": [
+      "adjustablechests:chest/achestopen"
+    ],
+	"subtitle": "subtitles.blockachest.open"
+  },
+  
+  "block.achest.close": {
+    "category": "block",
+    "sounds": [
+      "adjustablechests:chest/achestclose"
+    ],
+	"subtitle": "subtitles.block.achest.close"
+  }
+}
